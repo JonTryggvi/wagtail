@@ -1,17 +1,17 @@
 body {
-    background-color: brown;
-}
-.container {
-    width: 90%;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
+  background-color: aqua; }
 
-}
+.container {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between; }
+
 .blog-card {
-    flex-basis: 25%;
-    display: flex;
-    flex-flow: column;
-    align-self: flex-start;
-    justify-content: center;
-}
+  flex-basis: 25%;
+  display: flex;
+  flex-flow: column;
+  align-self: flex-start;
+  justify-content: center; }
+
+/*# sourceMappingURL=mysite.css.map */
